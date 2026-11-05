@@ -1,0 +1,9 @@
+# Phishing URL Awareness Checker - Dependencies
+# ===============================================
+# Core Detection Engine:
+# - Uses Python 3.10+ Standard Library (re, urllib.parse, ipaddress, unittest)
+# - Zero external dependencies needed for CLI usage or standalone Python imports!
+#
+# Web Dashboard Interface:
+Flask>=3.0.0
+
